@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Inyang Ukpong</h1>
 <h3 align="center">An aspiring web developer from Nigeria</h3>
 
-<img align=“right” alt=“Coding” width=“400” src="https://github.com/InyangUkpong/InyangUkpong/blob/main/girl-github.gif">
+<img align=“right” alt=“Coding” width=“400px” src="https://github.com/InyangUkpong/InyangUkpong/blob/main/girl-github.gif">
 
 ![](https://github.com/InyangUkpong/girl-github.gif)
 
