@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Inyang Ukpong</h1>
 <h3 align="center">An aspiring web developer from Nigeria</h3>
 
-<img align=“right” alt=“Coding” width=“300” src="https://github.com/InyangUkpong/InyangUkpong/blob/main/girlcoder.gif">
+<img align=“right” alt=“Coding” width=“300” height="150" src="https://github.com/InyangUkpong/InyangUkpong/blob/main/girlcoder.gif">
 
 <p align="left"> <a href="https://twitter.com/inyangdesigns" target="blank"><img src="https://img.shields.io/twitter/follow/inyangdesigns?logo=twitter&style=for-the-badge" alt="inyangdesigns" /></a> </p>
 
