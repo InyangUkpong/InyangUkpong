@@ -16,7 +16,7 @@
     <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
 </p>
 
-<img align=“left” width="40%" src="https://github.com/InyangUkpong/InyangUkpong/blob/main/girlcoder.gif">
+<img align=“center” width="47%" src="https://github.com/InyangUkpong/InyangUkpong/blob/main/girlcoder.gif">
 
 <p align="left"> <a href="https://twitter.com/inyangdesigns" target="blank"><img src="https://img.shields.io/twitter/follow/inyangdesigns?logo=twitter&style=for-the-badge" alt="inyangdesigns" /></a> </p>
 
@@ -28,13 +28,16 @@
 
 - ⚡ Fun fact **I am a student of ALX Software Engineering Programme (Cohort 7) <br> and The Zuri Internship Programme**
 
+
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=InyangUkpong&show_icons=true&theme=onedark"/>
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InyangUkpong&layout=compact&theme=onedark"/>
 
+
+
 ## 🔥 Streak stats
 
-<img align="center" width="80%" src="https://streak-stats.demolab.com/?user=InyangUkpong&theme=onedark"/>
+<img align="center" width="100%" src="https://streak-stats.demolab.com/?user=InyangUkpong&theme=onedark"/>
 
 <img align="left" src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white"/>
 
@@ -44,7 +47,7 @@
 
 <img align="left" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 
-![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
+<img align="left" src="https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white"/>
 
 ![Codepen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
 
