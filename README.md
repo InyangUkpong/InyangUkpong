@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, Welcome to Inyang Ukpong's profile!</h1>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FD6E96&width=435&lines=I+am+an+Experienced+WordPress+Designer;An+Aspiring+Frontend+Developer;Always+Learning+New+Things" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FD6E96&width=435&lines=An+Experienced+WordPress+Designer;Aspiring+Frontend+Developer;Always+Learning+New+Things" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -28,11 +28,11 @@
 
 - 🔭 I’m currently learning **Frontend Development**
 
-- 💬 Ask me about **HTML, CSS, Python**
+- 💬 Ask me about **HTML & CSS**
 
 - 📫 How to reach me **inyangweb@gmail.com**
 
-- ⚡ Fun fact **I am a student of ALX Software Engineering Programme (Cohort 7) and The Zuri Internship Programme**
+- ⚡ Fun fact **I am a student of ALX Software Engineering Programme (Cohort 7) <br> and The Zuri Internship Programme**
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=InyangUkpong&show_icons=true&theme=onedark"/>
 
@@ -48,7 +48,11 @@
 
 <img align="left" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>
 
-![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
+<img align="left" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+
+![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
+
+![Codepen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
 
 
 ## 🛠️ My favorite tools
