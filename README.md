@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Inyang Ukpong</h1>
 <h3 align="center">An aspiring web developer from Nigeria</h3>
 
-<img align=“right” src="https://github.com/InyangUkpong/InyangUkpong/blob/main/girlcoder.gif">
+<img align=“left” width="45%" src="https://github.com/InyangUkpong/InyangUkpong/blob/main/girlcoder.gif">
 
-<p align="left"> <a href="https://twitter.com/inyangdesigns" target="blank"><img src="https://img.shields.io/twitter/follow/inyangdesigns?logo=twitter&style=for-the-badge" alt="inyangdesigns" /></a> </p>
+<p align="rght"> <a href="https://twitter.com/inyangdesigns" target="blank"><img src="https://img.shields.io/twitter/follow/inyangdesigns?logo=twitter&style=for-the-badge" alt="inyangdesigns" /></a> </p>
 
 - 🔭 I’m currently learning **Frontend Development**
 
@@ -14,16 +14,17 @@
 
 - ⚡ Fun fact **I am a student of ALX Software Engineering Programme (Cohort 7) and The Zuri Internship Programme**
 
-GitHub Stats URL:-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?InyangUkpong= &theme=radical)
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=InyangUkpong&show_icons=true&theme=radical"/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/https://codepen.io/inyangweb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/inyangweb" height="30" width="40" /></a>
-<a href="https://twitter.com/inyangdesigns" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="inyangdesigns" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/inyang/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/inyang/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/20088495/ukpong-inyang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/20088495/ukpong-inyang" height="30" width="40" /></a>
-</p>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InyangUkpong&layout=compact"/>
+
+<img align="left" src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white"/>
+
+<img align="left" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/>
+
+<img align="left" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>
+
+![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
