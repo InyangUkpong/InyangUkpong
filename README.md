@@ -1,4 +1,4 @@
-![MasterHead](https://images.unsplash.com/photo-1580927752452-89d86da3fa0a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80)
+![MasterHead]<img src="https://github.com/InyangUkpong/InyangUkpong/blob/main/lappy-git.jpg" alt="banner" width="474" height="158" >
 <h1 align="center">Hi 👋, I'm Inyang Ukpong</h1>
 <h3 align="center">An aspiring web developer from Nigeria</h3>
 
