@@ -5,6 +5,22 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FD6E96&width=435&lines=I+am+an+Experienced+WordPress+Designer;An+Aspiring+Frontend+Developer;Always+Learning+New+Things" alt="Typing SVG" /></a>
 </p>
 
+<p align="center">
+  <a href="https://www.youtube.com/c/DevProTips">
+    <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCipSxT7a3rn81vGLw9lqRkg?color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+  <a href="https://github.com/InyangUkpong?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/InyangUkpong?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/InyangUkpong?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/InyangUkpong?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/InyangUkpong/Simple-View-Counter">
+    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
+</p>
+
+
+
+
+
+
 
 <img align=“left” width="40%" src="https://github.com/InyangUkpong/InyangUkpong/blob/main/girlcoder.gif">
 
