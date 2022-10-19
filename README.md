@@ -13,7 +13,9 @@
 - 📫 How to reach me **inyangweb@gmail.com**
 
 - ⚡ Fun fact **I am a student of ALX Software Engineering Programme (Cohort 7) and The Zuri Internship Programme**
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?InyangUkpong=anuraghazra&theme=radical_icons=true)
+
+GitHub Stats URL:-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?InyangUkpong= &theme=radical)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
