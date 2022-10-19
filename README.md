@@ -1,4 +1,4 @@
-![MasterHead]<img src="https://github.com/InyangUkpong/InyangUkpong/blob/main/lappy-git.jpg" alt="banner" width="474" height="158" >
+![MasterHead](https://github.com/InyangUkpong/InyangUkpong/blob/main/lappy-git.jpg)
 <h1 align="center">Hi 👋, I'm Inyang Ukpong</h1>
 <h3 align="center">An aspiring web developer from Nigeria</h3>
 
