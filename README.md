@@ -26,7 +26,7 @@
 
 - 📫 How to reach me **inyangweb@gmail.com**
 
-- ⚡ Fun fact **I am a student of ALX Software Engineering Programme (Cohort 7) <br> and The Zuri Internship Programme**
+- ⚡ Fun fact **I am a student of ALX Software Engineering Programme (Cohort 7) <br> a Grad from Zuri Internship Programme**
 
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=InyangUkpong&show_icons=true&theme=onedark"/>
