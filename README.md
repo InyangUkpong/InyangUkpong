@@ -1,5 +1,5 @@
 ![MasterHead](https://github.com/InyangUkpong/InyangUkpong/blob/main/lappy-git.jpg)
-<h1 align="center">Hi 👋, Welcome to Inyang Ukpong's profile!</h1>
+<h1 align="center">Hi 👋, I'm Inyang Ukpong!</h1>
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FD6E96&width=435&lines=An+Experienced+WordPress+Developer;Aspiring+Fullstack+Developer;Always+Learning+New+Things" alt="Typing SVG" /></a>
