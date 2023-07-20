@@ -20,13 +20,13 @@
 
 <p align="left"> <a href="https://twitter.com/inyangdesigns" target="blank"><img src="https://img.shields.io/twitter/follow/inyangdesigns?logo=twitter&style=for-the-badge" alt="inyangdesigns" /></a> </p>
 
-- 🔭 I’m currently learning **Frontend Development**
+- 🔭 I’m currently learning **Workflows**
 
-- 💬 Ask me about **HTML & CSS | Python/Django**
+- 💬 Ask me about **Python/Django**
 
 - 📫 How to reach me **inyangweb@gmail.com**
 
-- ⚡ Fun fact **I am a student of ALX Software Engineering Programme (Cohort 7) <br> a Grad from Zuri Internship Programme**
+- ⚡ Fun fact **I am a graduate of the ALX Software Engineering Programme (Cohort 7)**
 
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=InyangUkpong&show_icons=true&theme=onedark"/>
